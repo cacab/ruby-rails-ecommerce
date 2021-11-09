@@ -1,0 +1,3 @@
+class SecondpageController < ApplicationController
+
+end
